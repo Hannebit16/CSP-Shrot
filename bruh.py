@@ -1,2 +1,2 @@
 for num in 10:
-print(nun)
+print(num))
